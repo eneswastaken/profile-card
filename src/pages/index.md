@@ -18,6 +18,7 @@ status: "do-not-disturb"
 # all names are available at public/badges/margins folder
 badges:
   "hypesquad-balance":
+  "nitro":
   # An example of metadata usage, you may uncomment following lines by removing "#":
    "nitro":
      date: "06 Jun 2023"
