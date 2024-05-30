@@ -2,7 +2,7 @@
 # PLEASE DO NOT EDIT "layout"
 layout: "../layouts/Layout.astro"
 # Banner type, can be either "color" or "image"
-bannerType: "color"
+bannerType: "image"
 # Banner color or an image depending on the banner type set above,
 # either provide a color inside quotes or a path to an image (external links are supported)
 banner: "https://cdn.discordapp.com/banners/870616684870926377/dd234139b79765b44324d2475f6a3c5b?size=4096"
@@ -25,9 +25,9 @@ badges:
     username: "qqzl#9091"
 # Roles in profile: Key name stands for the label, value is the color
 roles:
-  "Fullstack Web Developer": "#006f72"
-  "UI/UX Designer": "#9b2335"
-  "FOSS Contributor": "#ffecc1"
+  "👑・Owner": "#006f72"
+  "Sexiest Koleka": "#9b2335"
+  "VTC Driver": "#ffecc1"
 # Connections, all connections are available at public/connections folder
 # "verified" key is optional but indicates verified icon
 # if "url" key is not provided, then the external link icon won't appear
