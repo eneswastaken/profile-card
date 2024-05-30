@@ -18,11 +18,13 @@ status: "do-not-disturb"
 # all names are available at public/badges/margins folder
 badges:
   "hypesquad-balance":
+  "nitro":
+     date: "06 Jun 2023"
   # An example of metadata usage, you may uncomment following lines by removing "#":
    "nitro":
      date: "06 Jun 2023"
   "legacy-username":
-    username: "Domin#9091"
+    username: "qqzl#9091"
 # Roles in profile: Key name stands for the label, value is the color
 roles:
   "Fullstack Web Developer": "#006f72"
@@ -32,13 +34,13 @@ roles:
 # "verified" key is optional but indicates verified icon
 # if "url" key is not provided, then the external link icon won't appear
 connections:
-  github:
-    username: "domin-mnd"
-    url: "https://github.com/domin-mnd"
+  steam:
+    username: "qqzl"
+    url: "https://steamcommunity.com/id/qqzl/"
     verified: true
-  reddit:
-    username: "Domin-MC"
-    url: "https://www.reddit.com/u/Domin-MC"
+  paypal:
+    username: "Henry Driver"
+    url: "discord.com/users/870616684870926377"
     verified: true
   spotify:
     username: "henry"
