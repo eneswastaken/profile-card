@@ -5,15 +5,15 @@ layout: "../layouts/Layout.astro"
 bannerType: "color"
 # Banner color or an image depending on the banner type set above,
 # either provide a color inside quotes or a path to an image (external links are supported)
-banner: "#d0cdc3"
+banner: "https://cdn.discordapp.com/banners/870616684870926377/dd234139b79765b44324d2475f6a3c5b?size=4096"
 # User avatar to display, can be external link or a path to an image from public folder
-avatar: "https://cdn.discordapp.com/avatars/418306434317680641/b2dbf8037d99af65706882bbdf6390df.png"
+avatar: "https://cdn.discordapp.com/avatars/870616684870926377/a2caef3d096e7b21bba6021ce7d68b8a?size=1024"
 # Discord custom nickname set above
-displayName: "Domin"
+displayName: "Henry"
 # Username on discord, follows the case you set, won't track your Discord account e.g. "Domin#2874" or "dominnya"
-username: "dominnya"
+username: "qqzl"
 # Discord status, can be "online-mobile", "online", "idle", "do-not-disturb", "invisible" or "streaming"
-status: "online"
+status: "do-not-disturb"
 # Badges next to avatar, some badges need metadata such as "date" or "username"
 # all names are available at public/badges/margins folder
 badges:
