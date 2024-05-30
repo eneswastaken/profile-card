@@ -41,12 +41,12 @@ connections:
     url: "https://www.reddit.com/u/Domin-MC"
     verified: true
   spotify:
-    username: "Domin"
-    url: "https://open.spotify.com/user/qzvkioir1rboe390cngafj94x"
+    username: "henry"
+    url: "https://open.spotify.com/user/s5uzn0gtojmqxoyvfhl20pvip"
     verified: true
   twitter:
-    username: "Dominiff"
-    url: "https://twitter.com/@dominiff"
+    username: "qqzl_"
+    url: "https://x.com/qqzl_"
     verified: true
 ---
 
