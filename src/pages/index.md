@@ -19,6 +19,7 @@ status: "do-not-disturb"
 badges:
   "hypesquad-balance":
   "nitro":
+  "boost-9-month":
   # An example of metadata usage, you may uncomment following lines by removing "#":
    "nitro":
      date: "06 Jun 2023"
