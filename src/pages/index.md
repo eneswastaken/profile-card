@@ -18,7 +18,7 @@ status: "do-not-disturb"
 # all names are available at public/badges/margins folder
 badges:
   "hypesquad-balance":
-  "nitro":
+  "nitro": 
   "boost-9-month":
   # An example of metadata usage, you may uncomment following lines by removing "#":
    "nitro":
@@ -40,7 +40,7 @@ connections:
     verified: true
   paypal:
     username: "Henry Driver"
-    url: "discord.com/users/870616684870926377"
+    url: "https://www.discord.com/users/870616684870926377"
     verified: true
   spotify:
     username: "henry"
@@ -54,8 +54,8 @@ connections:
 
 <!-- Your About Me section -->
 
-Hi, I'm an independent web developer based in Kazan, Russia.
+Founder of Truck Club  
 
-I mostly work with [frontend web development](https://domin.pro), designing user interfaces and improving user experience. My passion is tech so most of the projects I work on are open-source. Some projects are meant to automate my life, some are meant to express my obsession with art.
+17
 
-I'm interested in gaming, studying and experimenting with web design.
+(Send me a text to write here, henry. 😃)
