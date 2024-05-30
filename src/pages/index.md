@@ -18,12 +18,11 @@ status: "do-not-disturb"
 # all names are available at public/badges/margins folder
 badges:
   "hypesquad-balance":
-  "active-developer":
   # An example of metadata usage, you may uncomment following lines by removing "#":
-  # "nitro":
-  #   date: "13 May 2020"
+   "nitro":
+     date: "06 Jun 2023"
   "legacy-username":
-    username: "Domin#2874"
+    username: "Domin#9091"
 # Roles in profile: Key name stands for the label, value is the color
 roles:
   "Fullstack Web Developer": "#006f72"
